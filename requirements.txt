@@ -1,0 +1,9 @@
+Язык програмирования:
+python 3.9
+
+Бибиотеки:
+pandas
+numpy
+re
+sklearn
+joblib
